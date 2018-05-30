@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">bucharesttour</string>
+
+
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_restaurants">Restaurants</string>
+
+
+    <string name="university_square">University Square</string>
+    <string name="revolutiei_square">Revolutiei Square</string>
+    <string name="old_city">Old City</string>
+
+    <string name="university_details">7</string>
+    <string name="revolutiei_details">8</string>
+    <string name="old_city_details">9</string>
+
+
+    <string name="antipa_museum">Antipa Museum</string>
+    <string name="art_museum">National Art Gallery Square</string>
+    <string name="village_museum">Village Museum</string>
+
+    <string name="antipa_details">4</string>
+    <string name="art_details">5</string>
+    <string name="village_details">6</string>
+
+    <string name="herastrau_park">Herastrau Park</string>
+    <string name="cismigiu_park">Cismigiu Park</string>
+    <string name="libertatii_park">Libertatii Park</string>
+
+    <string name="herastrau_details">1</string>
+    <string name="cismigiu_details">2</string>
+    <string name="libertatii_details">3</string>
+
+    <string name="casa_restaurant">La casa</string>
+    <string name="thalia_restaurant">Thalia</string>
+    <string name="carul_cu_bere_restaurant">Carul cu bere</string>
+
+    <string name="casa_details">11</string>
+    <string name="thalia_details">12</string>
+    <string name="carul_cu_bere_details">13</string>
+
+</resources>
